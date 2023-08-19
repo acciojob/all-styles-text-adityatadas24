@@ -6,10 +6,9 @@
   Text-decoration: underline;
 }
 .main{
-	Width: 200px;
+	Width: 200 px;
     Background-color: purple;  
     border-left: solid green;
 	boder-left-width: 5 px;
-   
-    Padding: 10px;
+    Padding: 10 px;
 }
