@@ -8,8 +8,8 @@
 .main{
 	Width: 200px;
     Background-color: purple;  
-    border-color:green;
-	boder-left-width: 1px;
+    border-left:solid green;
+	boder-left: 5px;
    
     Padding: 10px;
 }
